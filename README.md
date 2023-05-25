@@ -2,7 +2,7 @@
 Created with CodeSandbox
 
 ## Description
- Built a React-Redux app that uses state management to add and reset playlists.
+A React-Redux app that uses state management to add and reset playlists.
  
 ## Acknowledgments
 This project is made possible by:
